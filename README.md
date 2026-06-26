@@ -9,6 +9,8 @@
 
 ## 🤔 Problem Statement
 
+Create PnL reports, evaluate financial performance, incorporate supplimentary data, optimize report generation  to help  AtliQ Technology , for informed decision-making, financial stability, and strategic planning.
+
 
 
 
