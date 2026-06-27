@@ -30,7 +30,8 @@ Create PnL reports, evaluate financial performance, incorporate supplimentary da
 + Pivot Table
 
 
-##### 📊 Findings:
+## 📊 Findings:
+
 + Revenue Growth: Net Sales surged from $87.5M (2019) → $196.7M (2020) → $598.9M (2021), showing a 204.5% YoY growth in 2021.
 + Gross Margin Trends: Despite revenue growth, GM% declined from 41.4% (2019) → 37.3% (2020) → 36.4% (2021), indicating margin pressure.
 + Regional Performance: India contributed the highest Net Sales ($161.3M) but had a relatively low GM% (32.0%), while markets like
@@ -38,7 +39,8 @@ New Zealand (48.2%) and Japan (46.5%) delivered stronger margins.
 + Quarterly GM% Analysis: Sub-zones like ANZ maintained stable margins (~38–42%), while India consistently underperformed (~32%).
   
 
-##### ✅ Recommendations
+## ✅ Recommendations
+
 + Margin Optimization: Focus on cost efficiency in high-revenue but low-margin markets (India, Australia).
 + Market Diversification: Expand in high-margin regions (Japan, New Zealand, UK) to balance profitability.
 + Quarterly Monitoring: Implement tighter controls on COGS and pricing strategies to stabilize GM%.
